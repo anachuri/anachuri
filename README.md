@@ -6,9 +6,7 @@
 </p>
 
 <br>
-
 <br>
-
 <br>
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
@@ -34,7 +32,8 @@
     ![[C](https://img.shields.io/badge/NET%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)](https://img.shields.io/badge/%20-%20.NET%20-%20%23512BD4?style=for-the-badge&logo=dotnet
 )
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Java](https://img.shields.io/badge/openjdk%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Java][(https://img.shields.io/badge/openjdk%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://img.shields.io/badge/%20-%20Java%20-%20%23ED8B00?style=for-the-badge&logo=openjdk
+)
 
 <br>   
     
@@ -89,13 +88,7 @@
 </div>
 
 <br>
-<br>
-<br>
-
 -----
-
-<br>
-<br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
@@ -127,17 +120,11 @@
 	
 </ul>
 </div>
-
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
 <br>
-
 </div>
-<br>
-<br>
-<br>
-<br>
----
+
 <br>
