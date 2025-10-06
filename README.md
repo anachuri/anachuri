@@ -29,7 +29,7 @@
 
 - **Languages**:
     
-    ![[C](https://img.shields.io/badge/%20-%20.NET%20-%20%23512BD4?style=for-the-badge&logo=dotnet)
+    ![C](https://img.shields.io/badge/%20-%20.NET%20-%20%23512BD4?style=for-the-badge&logo=dotnet)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Java](https://img.shields.io/badge/%20-%20Java%20-%20%23ED8B00?style=for-the-badge&logo=openjdk)
 
@@ -93,7 +93,7 @@
 
 <li>
 <a href="https://linkedin.com/in/maximiliano-anachuri" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  maximiliano-anachuri-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -103,7 +103,7 @@
 
 <li>
 <a href="mailto:maxigroxx@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  maxi%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
