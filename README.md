@@ -23,7 +23,11 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+### ☁️ Sitio web
+![WebSite](https://clever-meringue-485ebb.netlify.app/)
+
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>-->
 
 ## 🛠️ Skills
 
@@ -36,9 +40,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### ☁️ Cloud / Hosting
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-%23327FC7?style=for-the-badge&logo=github)
 
 ### 🔧 Tools & OS
 ![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git)
