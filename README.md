@@ -29,14 +29,14 @@ I'm a backend and desktop developer from **Jujuy, Argentina**. I enjoy understan
 
 ---
 
-## 🚀 Featured Projects
+<!--## 🚀 Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
 | **[POS System](https://github.com/YOUR-USERNAME/pos-system)** | Desktop point-of-sale system with product management, sales and reports | Java, Spring Boot, JPA/Hibernate, JavaFX |
 | **[MedAdhere](https://github.com/YOUR-USERNAME/medadhere)** | Mobile app that improves treatment adherence for chronic patients through nursing follow-up | React Native, Expo |
 | **[Your project](https://github.com/YOUR-USERNAME/repo)** | One line on the problem it solves | Technologies |
-
+-->
 ---
 
 ## 🛠️ Tech Stack
