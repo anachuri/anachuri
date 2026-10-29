@@ -70,6 +70,13 @@ I'm a backend and desktop developer from **Jujuy, Argentina**. I enjoy understan
 
 **Frameworks & Libraries**
 
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
+
+
+
+
+![GTK](https://img.shields.io/badge/GTK-7FE719?style=flat-square&logo=gtk&logoColor=white)
+
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
