@@ -75,7 +75,7 @@ I'm a backend and desktop developer from **Jujuy, Argentina**. I enjoy understan
 
 
 
-![GTK](https://img.shields.io/badge/GTK-7FE719?style=flat-square&logo=gtk&logoColor=white)
+![GTK](https://img.shields.io/badge/GTK-7FE719?style=flat-square&logo=gtk&logoColor=gray)
 
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
