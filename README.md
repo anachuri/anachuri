@@ -147,7 +147,7 @@ I'm a backend and desktop developer from **Jujuy, Argentina**. I enjoy understan
 
 ---
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=anachuri&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
@@ -155,6 +155,7 @@ I'm a backend and desktop developer from **Jujuy, Argentina**. I enjoy understan
 </p>
 
 ---
+-->
 
 <p align="center">
   <i>⭐ If any project helped you, leave a star.</i>
